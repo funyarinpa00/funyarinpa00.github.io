@@ -1,8 +1,4 @@
-# events
+# Dank repository aka event sheet
 
-## gen 8
+## Currently under construction. Check back later. :)
 
-| hi | hi | hi |
-|---|---|---|
-| hi | hi | hi |
-| hi | hi | hi |
